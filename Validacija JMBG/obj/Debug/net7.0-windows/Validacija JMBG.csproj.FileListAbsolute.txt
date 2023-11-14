@@ -1,0 +1,17 @@
+C:\Users\Korisnik\Desktop\Validacija JMBG\Validacija JMBG\bin\Debug\net7.0-windows\Validacija JMBG.exe
+C:\Users\Korisnik\Desktop\Validacija JMBG\Validacija JMBG\bin\Debug\net7.0-windows\Validacija JMBG.deps.json
+C:\Users\Korisnik\Desktop\Validacija JMBG\Validacija JMBG\bin\Debug\net7.0-windows\Validacija JMBG.runtimeconfig.json
+C:\Users\Korisnik\Desktop\Validacija JMBG\Validacija JMBG\bin\Debug\net7.0-windows\Validacija JMBG.dll
+C:\Users\Korisnik\Desktop\Validacija JMBG\Validacija JMBG\bin\Debug\net7.0-windows\Validacija JMBG.pdb
+C:\Users\Korisnik\Desktop\Validacija JMBG\Validacija JMBG\obj\Debug\net7.0-windows\Validacija JMBG.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Desktop\Validacija JMBG\Validacija JMBG\obj\Debug\net7.0-windows\Validacija_JMBG.Form1.resources
+C:\Users\Korisnik\Desktop\Validacija JMBG\Validacija JMBG\obj\Debug\net7.0-windows\Validacija JMBG.csproj.GenerateResource.cache
+C:\Users\Korisnik\Desktop\Validacija JMBG\Validacija JMBG\obj\Debug\net7.0-windows\Validacija JMBG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Korisnik\Desktop\Validacija JMBG\Validacija JMBG\obj\Debug\net7.0-windows\Validacija JMBG.AssemblyInfoInputs.cache
+C:\Users\Korisnik\Desktop\Validacija JMBG\Validacija JMBG\obj\Debug\net7.0-windows\Validacija JMBG.AssemblyInfo.cs
+C:\Users\Korisnik\Desktop\Validacija JMBG\Validacija JMBG\obj\Debug\net7.0-windows\Validacija JMBG.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\Validacija JMBG\Validacija JMBG\obj\Debug\net7.0-windows\Validacija JMBG.dll
+C:\Users\Korisnik\Desktop\Validacija JMBG\Validacija JMBG\obj\Debug\net7.0-windows\refint\Validacija JMBG.dll
+C:\Users\Korisnik\Desktop\Validacija JMBG\Validacija JMBG\obj\Debug\net7.0-windows\Validacija JMBG.pdb
+C:\Users\Korisnik\Desktop\Validacija JMBG\Validacija JMBG\obj\Debug\net7.0-windows\Validacija JMBG.genruntimeconfig.cache
+C:\Users\Korisnik\Desktop\Validacija JMBG\Validacija JMBG\obj\Debug\net7.0-windows\ref\Validacija JMBG.dll
